@@ -1,0 +1,1 @@
+streamlit>=1.37\npandas>=2.2\npython-dotenv>=1.0\nsmartapi-python\npyotp\nlogzero\nwebsocket-client\n
