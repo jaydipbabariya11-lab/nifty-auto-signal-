@@ -1,1 +1,6 @@
-streamlit>=1.37\npandas>=2.2\npython-dotenv>=1.0\nsmartapi-python\npyotp\nlogzero\nwebsocket-client\n
+
+streamlit>=1.37
+pandas>=2.0
+requests>=2.31
+smartapi-python
+pyotp
